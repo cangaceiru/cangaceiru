@@ -1,0 +1,9 @@
+- 👋 Olá, sou: @cangaceiru
+- 👀 Estou interessando em entender e me habituar a plataforma Github ...
+- 🌱 Atualmente estou apredendendo sobre esta Plataforma, aceitando sugestões ...
+- 📫 Para entrar em contato você pode me chamar no whatsapp: (44) 9 9759-7316 ...
+
+<!---
+cangaceiru/cangaceiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
